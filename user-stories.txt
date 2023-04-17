@@ -1,0 +1,30 @@
+Personal Digest App
+
+user stories
+	as a reciepient
+	- I want to know the top news for today Global and Local (v1)
+	- I want know the important emails that I recieved, from work and personal email (v2)
+	- I want to know if new relevant job oppurtunities arrived (specific companies & locations) (v3)
+	- things I need to do today ( my todo ) (v4)
+	- my vedic astrology horoscope (v1)
+	- news/scores regarding my favourite teams(v2)
+	at a single page
+	
+(this info should be limited to only the top results since that is the point of making the digest)
+(this info should be populated once daily, without manual intervention)
+(other than daily refresh, I can refresh the data if I want)
+
+	as account handler
+	-- I can set up the countries/regions I want the news from
+	-- I can add the emails i want to check
+	-- I can set which career pages I want the alerts from
+	-- simple to do entries
+	-- names of favourite teams
+	
+NFRs
+--highly reliable
+--easily usable
+--code is tested
+
+
+	
